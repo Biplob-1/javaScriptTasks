@@ -46,7 +46,7 @@ their corresponding grade based on the following grading scale:
 3. if num1 is bigger than num2 then result will be double of num1.
 4. if not, then the value of the variable result will be the sum of num1 and num2.
 
-### 6. Ticket fare Calculator
+### Ticket fare Calculator
 
 1. Children (age < 10): free
 2. Students get a 50% discount
